@@ -1,4 +1,57 @@
 /* 
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
+
+/* Estilo personalizado para la plantilla de Bootstrap */
+
+/* Colores */
+:root {
+    --primary-color: #8B4513; /* Marrón */
+    --secondary-color: #D2B48C; /* Beige */
+    --accent-color: #FFD700; /* Dorado */
+    --background-color: #F5F5DC; /* Blanco antiguo */
+    --text-color: #333333; /* Gris oscuro */
+}
+
+/* Fondo y color de texto */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/* Encabezados */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+}
+
+/* Botones */
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+/* Enlaces */
+a {
+    color: var(--primary-color);
+}
+
+a:hover {
+    color: var(--accent-color);
+}
+
+/* Estilo de los contenedores */
+.container {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+
+
 */
