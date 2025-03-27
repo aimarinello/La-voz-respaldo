@@ -9,6 +9,7 @@ permalink: /timeline.html
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> parent of 5efb4e2 (Cambio en linea de tiempo)
 =======
 
@@ -16,5 +17,8 @@ permalink: /timeline.html
 {% include feature/timelinejs.html %}
 =======
 
+## Collection Timeline
+>>>>>>> parent of 257fa3f (Cambio en Linea de tiempo)
+=======
 ## Collection Timeline
 >>>>>>> parent of 257fa3f (Cambio en Linea de tiempo)
