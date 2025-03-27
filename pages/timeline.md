@@ -6,6 +6,10 @@ permalink: /timeline.html
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 5efb4e2 (Cambio en linea de tiempo)
 =======
 
 >>>>>>> parent of 5efb4e2 (Cambio en linea de tiempo)
