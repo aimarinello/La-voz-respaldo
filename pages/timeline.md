@@ -5,6 +5,10 @@ permalink: /timeline.html
 # a timeline visualization will be added below the content in this file
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 5efb4e2 (Cambio en linea de tiempo)
 {% include feature/timelinejs.html %}
 =======
 
